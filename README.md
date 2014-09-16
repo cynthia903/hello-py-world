@@ -1,4 +1,4 @@
 hello-py-world
 ==============
 
-This is just a python test project.
+This is a python test project.
